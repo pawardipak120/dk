@@ -1,3 +1,7 @@
 this is master brance
 
+<<<<<<< HEAD
 123
+=======
+345
+>>>>>>> 1cb7b415529fb61784041311348dbcfd6672dd7d
